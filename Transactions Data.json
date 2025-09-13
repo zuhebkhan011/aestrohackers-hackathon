@@ -1,0 +1,29 @@
+{
+    "january": [
+        {"date": "2025-01-05", "description": "Groceries", "amount": 75.50, "type": "debit", "category": "Food"},
+        {"date": "2025-01-10", "description": "Salary", "amount": 2500.00, "type": "credit", "category": "Income"},
+        {"date": "2025-01-15", "description": "Restaurant", "amount": 45.00, "type": "debit", "category": "Food"},
+        {"date": "2025-01-20", "description": "Online Shopping", "amount": 120.00, "type": "debit", "category": "Shopping"},
+        {"date": "2025-01-25", "description": "Rent", "amount": 800.00, "type": "debit", "category": "Housing"}
+    ],
+    "february": [
+        {"date": "2025-02-05", "description": "Groceries", "amount": 85.00, "type": "debit", "category": "Food"},
+        {"date": "2025-02-10", "description": "Salary", "amount": 2500.00, "type": "credit", "category": "Income"},
+        {"date": "2025-02-18", "description": "Movie Tickets", "amount": 30.00, "type": "debit", "category": "Entertainment"},
+        {"date": "2025-02-25", "description": "Rent", "amount": 800.00, "type": "debit", "category": "Housing"}
+    ],
+    "march": [
+        {"date": "2025-03-05", "description": "Groceries", "amount": 70.00, "type": "debit", "category": "Food"},
+        {"date": "2025-03-10", "description": "Salary", "amount": 2500.00, "type": "credit", "category": "Income"},
+        {"date": "2025-03-20", "description": "Utilities Bill", "amount": 150.00, "type": "debit", "category": "Utilities"},
+        {"date": "2025-03-25", "description": "Rent", "amount": 800.00, "type": "debit", "category": "Housing"}
+    ],
+    "august": [
+        {"date": "2025-08-05", "description": "Groceries", "amount": 90.00, "type": "debit", "category": "Food"},
+        {"date": "2025-08-10", "description": "Salary", "amount": 2600.00, "type": "credit", "category": "Income"},
+        {"date": "2025-08-15", "description": "Birthday Gift", "amount": 100.00, "type": "debit", "category": "Gifts"},
+        {"date": "2025-08-22", "description": "Fuel", "amount": 60.00, "type": "debit", "category": "Transport"},
+        {"date": "2025-08-25", "description": "Rent", "amount": 800.00, "type": "debit", "category": "Housing"}
+    ]
+}
+

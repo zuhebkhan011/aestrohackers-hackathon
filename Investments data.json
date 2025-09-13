@@ -1,0 +1,14 @@
+{
+"stocks": {
+"total_value": 50000,
+"gain_loss": 8000
+},
+"mutual_funds": {
+"total_value": 120000,
+"gain_loss": 15000
+},
+"bonds": {
+"total_value": 30000,
+"gain_loss": 2000
+}
+}
